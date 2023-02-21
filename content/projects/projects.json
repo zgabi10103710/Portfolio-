@@ -1,0 +1,14 @@
+{
+
+  "chatme": {
+    "order": 2,
+    "thumbnail": "https://i.pinimg.com/564x/1b/bd/cc/1bbdcc4e242ed5fe47c4692c8fd20b0a.jpg",
+    "title": "JDRogueLike",
+    "tags": "Jeux de societé , Roguelike",
+
+    "Kistarter": "https://github.com/jeferson-sb/node-chat-app",
+    "pinned": true,
+    "description": "Plongez dans un univers fantastique et imprévisible grâce à notre jeu de rôle basé sur le principe de Rogue-like, où chaque choix peut être votre dernier. "
+  }
+
+}
